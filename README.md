@@ -45,7 +45,7 @@ I'm a **Fullstack Developer** based in Indonesia who treats code like art. I spe
 ---
 
 <div align="center">
-  <a href="https://instagram.com/username_lu">
+  <a href="https://instagram.com/____nazaaaqr">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://linkedin.com/in/username_lu">
