@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Naza+Ih+%F0%9F%91%8B;Fullstack+PHP+Engineer+%F0%9F%9A%80;Database+Architect+%F0%9F%9B%A0%EF%B8%8F;UI%2FUX+Glassmorphism+Lover+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=F75C7E&center=true&vCenter=true&width=435&lines=Hi+There!+I'm+Naza+%F0%9F%91%8B;Fullstack+PHP+Engineer+%F0%9F%9A%80;Database+Architect+%F0%9F%9B%A0%EF%B8%8F;UI%2FUX+Glassmorphism+Lover+%E2%9C%A8" alt="Typing SVG" />
 
   <br/>
 
@@ -14,7 +14,7 @@
 
 I'm a **Fullstack Developer** based in Indonesia who treats code like art. I specialize in building robust **Enterprise Systems** with complex database logic (Triggers & Procedures) wrapped in stunning **Modern UI**.
 
-- 🔭 Working on: **[Raja Ayam POS System](https://github.com/nazaabdillah/sistem-pos-raja-ayam)** (Advanced Inventory Management)
+- 🔭 Working on: **[Raja Ayam POS System](https://github.com/nazaabdillah/raja-ayam)** (Advanced Inventory Management)
 - 🌱 Learning: **Microservices Architecture & Cloud DevOps**
 - 💬 Ask me about: **PHP Native vs Laravel, MySQL Optimization, and CSS Magic**
 - ⚡ Secret Weapon: **I turn coffee ☕ into normalized database schemas.**
